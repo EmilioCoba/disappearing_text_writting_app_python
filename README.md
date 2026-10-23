@@ -2,32 +2,19 @@
 
 A fun writing challenge built with Python and CustomTkinter. Keep typing to keep your text alive! If you stop typing for too long, your text disappears.
 
-📸 Screenshots
-1. App Start
+## 📸 Screenshots
 
-The initial screen where you can start typing.
+### 1. App Start
+![App Start](Screenshot_15.png)
 
+### 2. Yellow Warning
+![Yellow Warning](Screenshot_16.png)
 
+### 3. Red Warning
+![Red Warning](Screenshot_17.png)
 
-
-2. Yellow Warning
-
-The text turns yellow when the countdown is running low.
-
-
-
-
-3. Red Warning
-
-The text turns red when time is almost up!
-
-
-
-
-4. Time's Up!
-
-When the timer reaches zero, all the text disappears.
-
+### 4. Timer Reaches Zero
+![Timer Reaches Zero](Screenshot_18.png)
 
 
 
